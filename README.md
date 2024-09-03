@@ -22,7 +22,7 @@ If You want to check the list of users who registered then press 3
 
 ![Screenshot 2024-09-03 213904](https://github.com/user-attachments/assets/849928ac-a993-4ac4-ac50-dda911674961)
 
-If you want to remove a user then press 5
+If you want to remove a user then press 5 and enter the username of the user 
 <br/> 
 <br/> 
 
